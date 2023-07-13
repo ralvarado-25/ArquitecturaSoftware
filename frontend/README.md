@@ -1,4 +1,4 @@
-## Updating to New Releases
+## Actualizaciones de nuevos ejecuciones
 
 Se divide en dos paquetes:
 
@@ -9,7 +9,7 @@ No necesitas actualizar `create-react-app` así mismo delega toda la configuraci
 
 Cuando se ejecuta el comando `create-react-app`, siempre crea el proyecto con la última version de `react-scripts` por lo que se obtendra todas las nuevas funciones y mejoras en las aplicacines recién creadas automaticamente.
 
-## Folder Structure
+## Estructura del proyecto
 
 Después de la creación, su proyecto debería verse así:
 
